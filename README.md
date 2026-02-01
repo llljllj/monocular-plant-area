@@ -62,3 +62,5 @@ conda activate plant_measure
 
 pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
 pip install ultralytics opencv-python opencv-contrib-python pandas matplotlib pillow
+
+注意：需要自行训练所需的YOLO模型和Deeplab模型
